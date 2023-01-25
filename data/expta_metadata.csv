@@ -1,0 +1,12 @@
+attribute,description
+experiment a,spatial associations
+year,calendar year
+census,"1, 2, 3"
+date,calendar date in d/m/year format
+site_code,match to regional key file
+rep,"just a sequential ordering for burrows you spot, reset at each new site"
+microsite,"shrub or open, eyeball it, within 1m of shrub = shrub"
+lat,degrees decimal
+long,degrees decimal
+diameter,burrow diameter at widest point
+activity,"evidence of digging or current use, just yes or no here"
