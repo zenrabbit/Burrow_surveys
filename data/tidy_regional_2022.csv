@@ -1,0 +1,52 @@
+state,desert,region,experiment,site_acronym,sub_site,site_code,shrub_counts,foundation,lat,long,elevation,MAT,MAP,aridity,aspect,viable_shrub_open_contrast,experimental_removal,area_m2,area_calc,polygon_block,area_block_m2
+California,Mojave,Mojave,invasion ,Antelope_valley,,Antelope_valley,y,Ephedra californica,34.87623299,-118.602041,,,,,,yes,yes,105094.79,polygon,Mojave west,602633500
+California,San Joaquin,San Joaquin,BNLL diet,Avenal - hwy 269,Aven,Avenal,y,Ephedra californica,36.062187,-120.101809,,,,,,yes,no,139838.37,polygon,none,200418076.9
+California,Mojave,Mojave,ERG,Barstow,4,Barstow_1,y,Ephedra californica,35.094051,-116.8349,496.02,19.7,135,0.652173913,,yes,no,114251.17,polygon,Mojave west,602633500
+California,Mojave,Mojave,invasion ,Barstow_2,B2,Barstow_2,y,Ephedra californica,35.02,-117.98,,17,170,6.3,,yes,no,7542.48,polygon,none,
+Nevada,Mojave,Mojave,invasion ,Cal-Nev-Ari,CNA,Cal_nev_ari,y,Larrea tridentata,35.4,-114.9,,17.5,211,7.8,,yes,no,4535.87,polygon,none,
+California,San Joaquin,Carrizo,BNLL,plant-animal,1,Carrizo_1,y,Ephedra californica,35.20177,-119.72495,,14.2,494,3.25,,yes,no,284423.85,polygon,Carrizo,200418076.9
+California,San Joaquin,Carrizo,BNLL,plant-animal,2,Carrizo_2,y,Ephedra californica,35.19266,-119.71253,,14.2,494,3.25,,yes,no,90491.75,polygon,Carrizo,200418076.9
+California,San Joaquin,Carrizo,BNLL,plant-animal,3,Carrizo_3,y,Ephedra californica,35.16245,-119.67445,,14,524,3.493333333,,yes,no,519747.4,polygon,Carrizo,200418076.9
+California,San Joaquin,Carrizo,BNLL,telemetry,4,Carrizo_4,y,Ephedra californica,35.11566,-119.62069,,14.5,476,3.070967742,,yes,no,6593207.55,polygon,Carrizo,200418076.9
+California,San Joaquin,Carrizo,BNLL,plant-animal,5,Carrizo_5,y,Ephedra californica,35.07283,-119.6606,,14.5,476,3.070967742,,yes,no,456808.29,polygon,Carrizo,200418076.9
+California,San Joaquin,Carrizo,BNLL,plant-animal,6,Carrizo_6,y,Ephedra californica,35.24177,-119.79147,,14.2,494,3.25,,yes,no,761315.93,polygon,Carrizo,200418076.9
+California,San Joaquin,Carrizo,invasion ,Carrizo invasion,7,Carrizo_7,n,Ephedra californica,35.2473536,-119.808462,,,,,,yes,,81719.76,polygon,Carrizo,200418076.9
+California,San Joaquin,Carrizo,BNLL diet,Soda Lake Road - unshrubbed,CaSL,Carrizo_soda_open,y,open,35.0906062,-119.5772678,180,,,,,no,no,6230.13,polygon,Carrizo,200418076.9
+California,San Joaquin,Carrizo,BNLL diet,Soda Lake Road - shrubs,CaS,Carrizo_soda_shrub,y,Ephedra californica,35.11921364,-119.6297363,,,,,,no,no,106223.42,polygon,Carrizo,200418076.9
+California,San Joaquin,Coalinga,BNLL diet,Coalinga - hwy 198,Coal,Coalinga,y,open,36.213013,-120.304092,,,,,,no,no,212418.5,polygon,none,
+California,San Joaquin,Cuyama,micronet,micronet,1,Cuyama_1,y,Ephedra californica,34.84872602,-119.483117,848,13.4,533,3.701388889,flat,yes,no,30580.25,polygon,Cuyama,55203874.45
+California,San Joaquin,Cuyama,micronet,micronet,2,Cuyama_2,y,Ephedra californica,34.85362197,-119.485961,837,13.4,533,3.701388889,flat,yes,yes,130538,polygon,Cuyama,55203874.45
+California,San Joaquin,Cuyama,micronet,micronet,3,Cuyama_3,y,Ephedra californica,34.93824399,-119.48084,827,13.4,533,3.701388889,flat,yes,yes,15936.01,polygon,Cuyama,55203874.45
+California,San Joaquin,Cuyama,micronet,micronet,4,Cuyama_4,y,Ephedra californica,34.94722403,-119.480491,838,13.4,533,3.701388889,east-facing slope,yes,yes,9933.26,polygon,Cuyama,55203874.45
+California,San Joaquin,Cuyama,micronet,micronet,5,Cuyama_5,y,Ephedra californica,35.04595203,-119.889098,557,14.1,529,3.503311258,south-facing slope,no,yes,22095.06,polygon,Cuyama,55203874.45
+California,San Joaquin,Cuyama,micronet,micronet,6,Cuyama_6,y,Ephedra californica,35.04901201,-119.896177,504,14.1,529,3.503311258,south-facing slope,yes,no,34498.5,polygon,Cuyama,55203874.45
+California,San Joaquin,Cuyama,ERG,Cuyama,2,Cuyama_ERG,y,Ephedra californica,34.85521998,-119.48851,806.83429,14.1,542,3.589403974,,yes,yes,117189.08,polygon,Cuyama,55203874.45
+California,Mojave,Mojave,ERG,HeartofMojave,5,Heartofmojave,y,Ephedra californica,34.698199,-115.684169,784.73,19.3,79,0.389162562,,no,yes,41367.09,polygon,Mojave west,602633500
+California,Mojave,Mojave,magnet,Kelso,1,Kelso_1,n,Larrea tridentata,35.3889,-115.40502,,17.2,169,0.928571429,,no,yes,54982.84,polygon,Kelso dunes,694386420.8
+California,Mojave,Mojave,magnet,Kelso,2,Kelso_2,n,Larrea tridentata,35.31008,-115.39279,,15.4,232,1.414634146,,no,yes,79114.05,polygon,Kelso dunes,694386420.8
+California,Mojave,Mojave,magnet,Kelso,3,Kelso_3,n,Larrea tridentata,35.41113,-115.401584,,17.2,169,0.928571429,,no,yes,38932.04,polygon,Kelso dunes,694386420.8
+California,Mojave,Mojave,magnet,Kelso,4,Kelso_4,n,Larrea tridentata,35.41392,-115.393789,,17.2,169,0.928571429,,no,yes,101147.41,polygon,Kelso dunes,694386420.8
+California,Mojave,Mojave,magnet,Kelso,5,Kelso_5,n,Larrea tridentata,35.061279,-115.664356,,18.4,162,0.835051546,,no,yes,100701.35,polygon,Kelso dunes,694386420.8
+Nevada,Mojave,Mojave,invasion ,Las Vegas,LV,Las_vegas,y,Larrea tridentata,36.45,-114.96,,20.75,106,3.44,,yes,no,1967.6,polygon,none,
+California,San Joaquin,Lokern,BNLL diet,Lokern,LoK,Lokern,y,Ephedra californica,35.354308,-119.584013,,,,,,no,no,38001.36,polygon,none,
+Nevada,Mojave,Mojave,invasion ,Mesquite,MM,Mesquite,y,Larrea tridentata,36.76,-114.07,,18.35,141,4.98,,yes,no,2157,polygon,none,
+California,Mojave,Mojave,shrub contrast,MNP1,2.1,Mojave_1,y,Larrea tridentata,35.25608333,-116.0472333,313,21.5,70,0.325581395,flat,yes,no,48687.13,polygon,Kelbaker,432475574.5
+California,Mojave,Mojave,shrub contrast,MNP2,2.2,Mojave_2,y,Larrea tridentata,35.2502,-115.9224333,515,20.8,80,0.384615385,flat,yes,no,62687.52,polygon,Kelbaker,432475574.5
+California,Mojave,Mojave,shrub contrast,MNP3,2.3,Mojave_3,y,Larrea tridentata,35.18428333,-115.8600167,737,20.4,89,0.43627451,flat,yes,no,49383.39,polygon,Kelbaker,432475574.5
+California,Mojave,Mojave,shrub contrast,MNP4,2.4,Mojave_4,y,Larrea tridentata,35.15516667,-115.7903333,951,18.7,134,0.71657754,flat,yes,no,53176.83,polygon,Kelbaker,432475574.5
+California,Mojave,Mojave,shrub contrast,MNP5,2.5,Mojave_5,y,Larrea tridentata,35.14453333,-115.7286167,1128,17.5,168,0.96,rocky,yes,no,34682.62,polygon,Kelbaker,432475574.5
+California,San Joaquin,Panoche,shrub contrast,PAN1,1.1,Panoche_1,y,Ephedra californica,36.69533,-120.7972,661,14.2,398,2.802816901,plateau,yes,no,453392.69,polygon,Panoche,1722195.13
+California,San Joaquin,Panoche,shrub contrast,PAN2,1.2,Panoche_2,y,Ephedra californica,36.70654,-120.812,611,14.4,377,2.618055556,south,yes,no,276336.27,polygon,Panoche,1722195.13
+California,San Joaquin,Panoche,shrub contrast,PAN3,1.3,Panoche_3,y,Ephedra californica,36.70554,-120.81229,596,14.4,377,2.618055556,north,yes,no,252374.92,polygon,Panoche,1722195.13
+California,San Joaquin,Panoche,ERG,PanocheHills,1,Panoche_ERG,y,Ephedra californica,36.70000998,-120.801116,656.320862,14.4,381,2.474025974,,yes,no,131465.66,polygon,Panoche,1722195.13
+California,San Joaquin,Panoche,BNLL diet,Mountain View Rd,Mov,Panoche_mtnview,n,open,36.562866,-120.546768,,,,,,no,no,190780.07,polygon,none,
+California,San Joaquin,Panoche,BNLL diet,Panoche Plateau,PaPL,Panoche_plateau,y,Ephedra californica,36.7001,-120.8019,,,,,,yes,no,116911.8,polygon,Panoche,1722195.13
+California,San Joaquin,Panoche,BNLL diet,Silver Creek Ranch,SiCr,Panoche_silvercreek,n,Ephedra californica,36.585782,-120.688315,273,,,,,no,no,220830.87,polygon,none,
+California,San Joaquin,San Joaquin,BNLL diet,Semi-tropic,SemiT,Semitropic,y,Ephedra californica,35.65927718,-119.6072509,,,,,,no,no,215049.59,polygon,none,
+California,Mojave,Mojave,ERG,SheepholeValley,6,Sheephole,y,Ephedra californica,34.205676,-115.719676,545.92,20.9,109,0.497716895,,yes,no,69896.96,polygon,Mojave west,602633500
+California,Mojave,Mojave,polllinator networks,Sunset Cove,1,Sunset_1,n,Cylindropuntia acanthocarpa,34.782643,-115.662498,1321,18.6,176,0.897959184,,no,no,272961.23,polygon,Granites,1668398.95
+California,Mojave,Mojave,polllinator networks,Sunset Cove,2,Sunset_2,n,Larrea tridentata,34.776453,-115.660723,1283,18.6,176,0.897959184,,no,no,343997.02,polygon,Granites,1668398.95
+California,Mojave,Mojave,ERG,Tecopa,7,Tecopa,y,Ephedra californica,35.85151504,-116.186706,699.456665,20.1,77,0.36492891,,yes,no,33401.1,polygon,Tecopa,213979.67
+California,Mojave,Mojave,shrub-animal-climate,Tecopa_open,8,Tecopa_open,y,none,35.85474,-116.17866,,,,,,no,no,5684.19,polygon,Tecopa,213979.67
+California,San Joaquin,San Joaquin,ERG,TejonRanch,3,Tejon_ERG,y,Ephedra californica,34.875994,-118.60246,1118.022,13.7,305,2.074829932,,no,no,174780.53,polygon,none,
+California,Mojave,Mojave,invasion ,Yucca Grove,YG,Yucca_grove,n,Larrea tridentata,35.41,-115.8,,14.32,231,9.5,,yes,no,31833.65,polygon,none,
