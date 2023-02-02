@@ -34,7 +34,8 @@ Ensure you do an 'open' site like Tecopa_open and Soda_lake etc.
 Get kml or shape files from Mario OR use a 50 x 50m tape, place centroid of lat long in middle. See regional sites file included herein for site_codes and lat long.  
 Within the centered 50 x 50m plot at each site (or do whole site polygon), geotag every burrow and measure its diameter at widest point.
 
-Two key measures: burrow location + its diameter.  
+Two key measures: burrow location + its diameter.  If you can, eyeball it and code whether each is near a shrub, within 1m of dripline.    
+
 We then use shrub geodata with [st_distance](https://r-spatial.github.io/sf/reference/geos_measures.html) to get distances to shrub and also count up shrubs within sample area to get density.  
 
 
