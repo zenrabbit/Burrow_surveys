@@ -38,6 +38,8 @@ Two key measures: burrow location + its diameter.  If you can, eyeball it and co
 
 We then use shrub geodata with [st_distance](https://r-spatial.github.io/sf/reference/geos_measures.html) to get distances to shrub and also count up shrubs within sample area to get density.  
 
+![](burrow_design.png)
+
 
 **Df**  
 Datasheet.  
