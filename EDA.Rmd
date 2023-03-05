@@ -1,0 +1,63 @@
+---
+title: ''
+output:
+  pdf_document: default
+  html_document: default
+date: "2023-03-05"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+## EDA  
+```{r}
+library(tidyverse)
+
+#metadata
+mdata <- read_csv("data/expta_metadata.csv")
+knitr::kable(mdata)
+
+sites <- read_csv("data/expta_sites.csv")
+knitr::kable(sites)
+
+plots <- sites %>% 
+  select(site_code, plot_size_m2)
+
+#data
+data <- read_csv("data/expta.csv")
+#str(data)
+
+d1 <- data %>% 
+  group_by(site_code, microsite) %>% 
+  summarise(n = n())
+
+d1 <- left_join(d1, plots) %>% 
+  mutate(burrow_density = n/plot_size_m2)
+
+
+```
+
+#### Viz
+```{r}
+ggplot(d1, aes(reorder(site_code, n), n)) +
+  geom_col() +
+  coord_flip()
+
+ggplot(d1, aes(reorder(site_code, burrow_density), burrow_density)) +
+  geom_col() +
+  coord_flip()
+
+ggplot(d1, aes(microsite, n, fill = site_code)) +
+  geom_col() +
+  coord_flip() +
+  scale_fill_brewer(palette = "Paired")
+
+ggplot(d1, aes(microsite, burrow_density, fill = site_code)) +
+  geom_col() +
+  coord_flip() +
+  scale_fill_brewer(palette = "Paired")
+
+
+```
+
