@@ -10,3 +10,4 @@ lat,degrees decimal
 long,degrees decimal
 diameter,burrow diameter at widest point
 activity,"evidence of digging or current use, just yes or no here"
+sites.csv,"the sites csv file lists plot size, site_code, and lat long of centroids"
